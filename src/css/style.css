@@ -91,4 +91,17 @@ body
 {
     color: #2491d9;
 }
+@media(max-width:992px)
+{
+    .form2
+    {
+    background: white;
+    border-radius: 9px;
+    padding: 6px;
+    height: 303px;
+    margin-top: 32px;
+    width:auto;
+    }
+
+}
 
