@@ -1,0 +1,88 @@
+.form-background
+{
+    background-image: linear-gradient(to right, rgb(57,118,183) , rgb(117,82,176));
+}
+/* defining class form2 */
+.form2
+{
+    background: white;
+    width: 25%;
+    border-radius: 9px;
+    padding: 6px;
+    height: 303px;
+}
+.form1
+{
+    padding: 96px;
+    margin: auto;
+    display: block;
+    justify-content: center;
+    text-align: -webkit-center;
+}
+.login
+{
+
+    font-family: sans-serif;
+    text-align: center;
+   
+
+}
+.text1
+{
+    border: none;
+    padding: 10px;
+}
+.text2
+{
+    border:none;
+    padding:10px;
+}
+/* defining class hr1 */
+.hr1
+{
+    width: 63%;
+    border: 1px solid #cbc5c5;
+    position: relative;
+    bottom: 11px;
+}
+.hr2
+{
+    border: 1px solid rgb(234 232 229);
+    width:100%;
+}
+.forgot
+{
+
+    position: relative;
+    right: 12%;
+    bottom: 10px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: rgb(182 182 182);
+    font-weight: 600;
+    font-size: 13px;
+
+
+}
+.button1
+{
+    background: #2491D9;
+    padding: 10px;
+    width: 73%;
+    border-radius: 17px;
+    border: none;
+    color: #fff;
+    font-weight: 700;
+}
+.login1
+{
+    font-family: sans-serif;
+    color: #6f6b6b;
+    font-size:13px;
+    margin-top:17px;
+}
+.signup
+{
+    color: #2491d9;
+}
+
