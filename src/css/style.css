@@ -1,6 +1,7 @@
-.form-background
+
+body
 {
-    background-image: linear-gradient(to right, rgb(57,118,183) , rgb(117,82,176));
+    background-image: linear-gradient(to right, rgb(57,118,183) , rgb(117,82,176));  
 }
 /* defining class form2 */
 .form2
@@ -10,6 +11,7 @@
     border-radius: 9px;
     padding: 6px;
     height: 303px;
+    margin-top: 32px;
 }
 .form1
 {
